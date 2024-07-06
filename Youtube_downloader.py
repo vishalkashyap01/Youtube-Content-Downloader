@@ -59,10 +59,10 @@ print("Title : ", youtube_0.title)
 print('\n')
 
 print("Choose from the following options ")
-print("Press 1 for Download video ")
-print("Press 2 for Download audio ")
-print("Press 3 for Download thumbnail ")
-print("Press 4 for print channel name ")
+print("Press 1 for Download Video ")
+print("Press 2 for Download Audio ")
+print("Press 3 for Download Thumbnail ")
+print("Press 4 for Print Channel Name ")
 check = int(input(""))
 
 if check == 1:
